@@ -1,4 +1,4 @@
-package com.nightkyb.mylibrary;
+package com.github.demo;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.nightkyb.mylibrary.test", appContext.getPackageName());
+        assertEquals("com.nightkyb.myapplication3", appContext.getPackageName());
     }
 }

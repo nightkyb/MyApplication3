@@ -1,4 +1,4 @@
-package com.nightkyb.myapplication3;
+package com.github.demo;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.nightkyb.mylibrary;
+package com.github.nightkyb;
 
 /**
  * Author: Netviom
